@@ -1,6 +1,4 @@
-🎵 GTZAN Music Genre Classification 🎶
-
-مثال صورة: ممكن تحطي screenshot للـ repo أو صورة Mel-spectrogram صغيرة
+🎵 GTZAN Music Genre Classification 
 
 📖 Overview
 
